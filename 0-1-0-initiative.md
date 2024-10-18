@@ -1,4 +1,8 @@
+<div class="breadcrumbs">
+
 [Home](../index.md) > [Initiatives](./index.md) > **User-Friendly Navigation**
+
+</div>
 
 # 1.0 Initiative: **User-Friendly Navigation**
 

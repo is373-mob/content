@@ -1,4 +1,8 @@
+<div class="breadcrumbs">
+
 [Home](../index.md) > [Initiatives](./index.md) > **Content Accessibility and Interaction**
+
+</div>
 
 # 2.0 Initiative: **Content Accessibility and Interaction**
 
