@@ -1,9 +1,9 @@
+
 <div class="breadcrumbs">
 
 [Home](index.md) > **Initiatives**
 
 </div>
-
 
 # Initiatives
 
@@ -14,6 +14,4 @@
 ## 2.0 Initiative: **Content Accessibility and Interaction**
 
 *[Learn More](./0-2-0-initiative.md)*
-
-## 2.0 Initiative: **Content Accessibility and Interaction**
 
