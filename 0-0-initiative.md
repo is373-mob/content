@@ -9,6 +9,3 @@
 ## 2.0 Initiative: **Content Accessibility and Interaction**
 
 *[Learn More](./0-2-0-initiative.md)*
-
-## 2.0 Initiative: **Content Accessibility and Interaction**
-
